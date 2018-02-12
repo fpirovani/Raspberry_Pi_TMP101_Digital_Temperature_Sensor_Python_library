@@ -1,4 +1,4 @@
-[![ TMP101](TMP101_I2C.png)](https://store.ncd.io/product/tmp101-digital-temperature-sensor-with-alert-function-i2c-mini-module/).
+[![ TMP101](TMP101NA_I2C.png)](https://store.ncd.io/product/tmp101-digital-temperature-sensor-with-alert-function-i2c-mini-module/).
 
 #  TMP101
 
